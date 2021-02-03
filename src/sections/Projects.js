@@ -5,7 +5,6 @@ import Display from '../components/Display'
 import projectNav from '../utils/ProjectNavigation'
 import simple from '../utils/simpleProjects'
 import complex from '../utils/complexProjects'
-import design from '../utils/UI_UX'
 import openSource from '../utils/openSource'
 import freelance from '../utils/freelanceWork'
 
@@ -13,7 +12,7 @@ import freelance from '../utils/freelanceWork'
 
 class Body extends Component {
 
-	//state maintaining project navigation and display
+	//state obj maintaining project menu and display 
 	state = { 
 			projects: simple,
 			project_display:[],
@@ -38,32 +37,22 @@ class Body extends Component {
 				this.setState( { projects:complex } )
 				break;
 			case  3:
-				this.setState( { projects:design } )
-				break;
-			case  4:
 				this.setState( { projects:openSource } )
 				break;
-			case  5:
+			case  4:
 				this.setState( { projects:freelance } )
 				break;
 			default:
-		
 		}
-
-		// if (id === 1) {
-		// 	this.setState( { projects:simple } )
-		// } else if (id === 2) {
-		// 	this.setState( { projects:complex } )
-		// } else if (id === 3) {
-		// 	this.setState( { projects:design } )
-		// } else {
-			
-		// }
 	} 
-
 	render(){
 
+		//state destructuring
 		const { projects, project_display } = this.state
+
+		//components (using .map to itterate over data array, assigning props to each item in itteration )
+
+		//**I prefer to save the component to a variable and insert it with "{}" in my JSX
 
 		const projectList = projectNav.map(link =>
 			<ProjectsBar 
@@ -91,7 +80,6 @@ class Body extends Component {
 		return (
 
 				<div className='selection_container'>
-					<h1>Projects =></h1>
 					<div className="selection_pannel">
 						{projectList}
 					</div>

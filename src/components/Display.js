@@ -3,15 +3,16 @@ import React from 'react'
 
 function Display (props){
 
+	//this component is the display area of each selected project
+
 	let dataStyle = {
  	fontWeight: 'bold',
- 	// textDecoration: 'underline',
  	color: '#7fdff4'
  }
 	return (		
 			<div className='display_container'>	
 				<div className='display_img'>
-					<img src= {props.info.img} height='400' width='450' alt="?" />
+					<img src= {props.info.img} height='400' width='550' alt="?" />
 				</div>			
 				<div className='display_data'>
 
@@ -39,9 +40,3 @@ function Display (props){
 }
 
 export default Display
-
-// pop up on mouse over
-
-//  <div class="hover-img">
-// span><img src={img_view} height='80px' /></span>
-// </div>

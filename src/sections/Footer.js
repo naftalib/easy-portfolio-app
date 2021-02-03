@@ -5,8 +5,7 @@ function Footer(){
 
 	return(
 	<div className='footer'>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 	 
-				neque maiores.</p>
+				<p>made with love by @naftalib || see my portfolio <a href="https://naftalib.github.io/" target="_blank"> here</a></p>
 	</div>
 		
 		)

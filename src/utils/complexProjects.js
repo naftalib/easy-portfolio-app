@@ -1,46 +1,36 @@
-import img_PH from './imgs/placeHolder.JPG'
+import img1 from './imgs/placeHolder.JPG'
 
 
 const Data = [
 
 	{
 		id: 1,
-	    img:img_PH,
-		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		img: img1,
+		type: 'Full-Stack',
+		title: 'Your project 1',
+		description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit,. Check out my code on GitHub by clicking the link below`,	
+		code: '',
+		link: ''
 
 	},
-	{
+		{
 		id: 2,
-	    img:img_PH,
-		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+	    img:img1,
+		type: 'algorithms',
+		title: 'Your project 2',
+		description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit,`,
+		code: '',
+		link: ''
 
 	},
 	{
 		id: 3,
-	    img:img_PH,
-		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
-
-	},
-	{
-		id: 4,
-	    img:img_PH,
-		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		img: img1,
+		type: 'Backend hell',
+		title: 'Your project 1',
+		description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit,. Check out my code on GitHub by clicking the link below`,	
+		code: '',
+		link: ''
 
 	}
 

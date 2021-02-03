@@ -7,11 +7,10 @@ const Header = () => {
 		
 		<div className='headerContent'> 
 			<div className='section-1'>
-				<h1 className="tag">{`<NB/>`}</h1>
-                <h2>Naftali Breuning</h2>
+                <h2>Your Name</h2>
                 <hr id="hr_logo"></hr>
                 <h3 id="webdev">web developer</h3>
-                <p className="tag">Israel</p>
+                <p className="tag">Country</p>
 			</div>	
 			 <div className="links">
 			 	<a href="#" className='profileLink'>{'<= Profile'}</a>

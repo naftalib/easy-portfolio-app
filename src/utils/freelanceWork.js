@@ -8,40 +8,40 @@ const Data = [
 		id: 1,
 	    img:img_PH,
 		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		title: 'Company 1',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+		link: '',
+		code: ''
 
 	},
 	{
 		id: 2,
 	    img:img_PH,
 		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		title: 'Company 2',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+		link: '',
+		code: ''
 
 	},
 	{
 		id: 3,
 	    img:img_PH,
 		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		title: 'Company 3',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+		link: '',
+		code: '' 
 
 	},
 	{
 		id: 4,
 	    img:img_PH,
 		type: 'FullStack',
-		title: 'Up comming',
-		description: 'This app was part of a course on React in which I leaned and mastered core React concepts such as state manipulation, conditional rendering, props and componant styling',
-		link: 'www.link.com',
-		code: 'github.com'
+		title: 'Company 4',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+		link: '',
+		code: ''
 
 	}
 
