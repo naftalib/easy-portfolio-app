@@ -3,7 +3,8 @@
 please clone, npm install and use freely.
 
 =======================================================================================================
-----ABOUT----
+                                               ----ABOUT----
+
 The programming logic for this app is mainly in the 'projects.js' component located in the 'src' folder.
 
 ========================================================================================================
