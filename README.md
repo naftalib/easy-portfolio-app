@@ -11,7 +11,7 @@ To customise for personal use just change the data files (simpleProjects.js etc)
 
 ==================================================================
 
-IMPROVEMENTS
+IMPROVEMENTS NEEDED
 
 There is still need for improvement in this app.
 
@@ -19,5 +19,6 @@ There is still need for improvement in this app.
 2. The data files are only mimicing JSON data from an API. Mabey there's a better eay to do this? Especially for uopdate simplicity.
 3. Have an option for day/night theme.
 4. Use a router to switch between the profile and porfolio so as to avoid the long scroll.
+5. Revamp code to use functional components with hooks.
 
 Any questions - naftalib212@gmail.com
