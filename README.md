@@ -15,10 +15,11 @@ IMPROVEMENTS NEEDED
 
 There is still need for improvement in this app.
 
-1. Not yet fully responsive for mobile (in the porfolio section).
-2. The data files are only mimicing JSON data from an API. Mabey there's a better eay to do this? Especially for uopdate simplicity.
-3. Have an option for day/night theme.
-4. Use a router to switch between the profile and porfolio so as to avoid the long scroll.
-5. Revamp code to use functional components with hooks.
+1. Definitely needs to be restructured! BADLY! The file structure is terible and the App.js file is horendous. Lots of bad practices here, needs help!
+2. Not yet fully responsive for mobile (in the porfolio section).
+3. The data files are only mimicing JSON data from an API. Mabey there's a better eay to do this? Especially for uopdate simplicity.
+4. Have an option for day/night theme.
+5. Use a router to switch between the profile and porfolio so as to avoid the long scroll.
+6. Revamp code to use functional components with hooks.
 
 Any questions - naftalib212@gmail.com
