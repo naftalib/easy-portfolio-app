@@ -13,7 +13,7 @@ To customise for personal use just change the data files (simpleProjects.js etc)
 
 IMPROVEMENTS NEEDED
 
-There is still need for improvement in this app.
+There is still need for improvement in this app. Please feel free to add.
 
 1. Definitely needs to be restructured! BADLY! The file structure is terible and the App.js file is horendous. Lots of bad practices here, needs help!
 2. Not yet fully responsive for mobile (in the porfolio section).
