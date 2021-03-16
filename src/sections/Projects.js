@@ -10,7 +10,7 @@ import freelance from '../utils/freelanceWork'
 
 
 
-class Body extends Component {
+class App extends Component {
 
 	//state obj maintaining project menu and display 
 	state = { 
@@ -20,7 +20,7 @@ class Body extends Component {
 	//init nav & display
 	componentDidMount(){
 		const currentId = simple.filter(proj=> proj.id === 1)
-		this.setState( { project_display: currentId })
+		this.setState( { project_display: currentId } )
   }
   	//method that filters through the project list by id, then commits the selected id to a variable and updates the display state with selected id
 	handleClick = id => {
@@ -96,7 +96,7 @@ class Body extends Component {
 	}
 }
 
-export default Body
+export default App
 
 
 
