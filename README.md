@@ -1,6 +1,6 @@
 # easy-portfolio-app
 
-This project was created using Creat-React-App. Please clone, npm install and use freely.
+This project was bootsrtapped using Creat-React-App. Please clone, npm install and use freely.
 
 =================================================================
 
