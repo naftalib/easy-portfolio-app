@@ -8,6 +8,7 @@ import Footer from './sections/Footer'
 function App() {
 
   return (
+    //Here I included a "table of contents" of the various components
    <div>  
       <div>
         <Header />
