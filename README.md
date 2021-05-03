@@ -1,6 +1,6 @@
 # easy-portfolio-app
 
-This project was bootsrtapped using Creat-React-App. Fel free to clone, npm install and use freely.
+This project was bootsrtapped using Creat-React-App. In order to use the project clone to your remote environment, npm install and hack away.
 
 =================================================================
 
