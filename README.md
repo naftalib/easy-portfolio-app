@@ -4,7 +4,7 @@ This project was bootsrtapped using Creat-React-App. In order to use the project
 
 =================================================================
 
-ABOUT
+ABOUT THIS APP.
 
 The programming logic for this app is in the 'projects.js' component located in the 'src' folder. The comments should explain everything.
 The crux of this app is a display pannel for your projects. The way I set it up is by creating data files containing an array holding an image of the project and some details about it, which are kept in the utils folder. This project data is being mapped over and returning a display component prototype which then conviniently displays each project found in the array, according to it's unique keys.
