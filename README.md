@@ -23,4 +23,4 @@ There is still need for improvement in this app. Please feel free to help imrpov
 5. Use a router to switch between the profile and porfolio so as to avoid the long scroll.
 6. Revamp code to use functional components with hooks.
 
-Any questions - naftalib212@gmail.com
+If you have any questions - naftalib212@gmail.com
