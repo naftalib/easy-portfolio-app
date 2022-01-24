@@ -12,7 +12,7 @@ To customise for personal use just change the data files (simpleProjects.js etc)
 
 ==================================================================
 
-IMPROVEMENTS NEEDED - PLEASE HELP
+IMPROVEMENTS NEEDED - PLEASE HELP OUT
 
 There is still need for improvement in this app. Please feel free to help imrpove.
 
